@@ -1,0 +1,11 @@
+# Build output
+/target
+
+# Backup files
+**/*.rs.bk
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
