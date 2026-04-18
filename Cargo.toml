@@ -1,0 +1,5 @@
+[dependencies]
+clap = {version="4", features= ["derive"]}
+anyhow = "1.0"
+walkdir = "2"
+regex = "1"
